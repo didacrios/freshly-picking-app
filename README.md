@@ -1,6 +1,23 @@
+#FreshlyPickingBackend
+
+This project is generated with Node Express and MongoDB
+
+Run `nodemon --exec bab-node server.js`
+
+Use a local database with user root and password password
+
 # FreshlyPickingApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.2.
+
+## Install project
+
+Run `npm install` to install the app
+
+Having problems installing? Try yarn
+
+`yarn install`
+
 
 ## Development server
 
@@ -25,3 +42,18 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+
+
+# Freshly Prestashop
+
+Docker composer
+
+cd ./freshly-prestashop
+sudo docker-compose up -d
+
+
+cd ./freshly-picking-app
+yarn install
+ng serve
+

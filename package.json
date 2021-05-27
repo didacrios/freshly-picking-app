@@ -25,7 +25,7 @@
     "@angular/router": "~7.2.0",
     "ag-grid-angular": "^20.0.0",
     "ag-grid-community": "^20.0.0",
-    "core-js": "^2.5.4",
+    "core-js": "^2.6.12",
     "cors": "^2.8.5",
     "ngx-socket-io": "^2.1.1",
     "nodemon": "^1.18.9",
